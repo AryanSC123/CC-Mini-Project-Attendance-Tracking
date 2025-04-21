@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Mohit\SIES\TE\CC\attendance-system\venv
+set VIRTUAL_ENV=D:\Projects\College Projects\CC Mini Project\Basic-attendance-system\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
